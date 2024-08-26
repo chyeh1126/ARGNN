@@ -2,8 +2,6 @@
 
 An implementation of ARGNN
 
-## Overview
-
 ```./data```: the direction to save the raw data and the attacked data
 
 ```./experiments```: the shell script to reproduce the experiment result
