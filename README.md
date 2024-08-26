@@ -6,6 +6,10 @@ An implementation of ARGNN
 
 ```./experiments```
 
+```generate_attack.py```: generate the poisoned graph structure and node feature
+
+```train_argnn.py```: train ARGNN model
+
 ## Package
 
 Please run the following command
